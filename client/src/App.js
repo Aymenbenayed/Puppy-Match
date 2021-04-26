@@ -49,7 +49,7 @@ function App() {
         <Route path="/signup" component={Signup}/>
         <Route path="/signin" component={Signin}/>
         <Route path="/annonces" component={Annonces}/>
-        <Route path="/actualités" component={Actualitésgit add }/>
+        <Route path="/actualités" component={Actualités}/>
         <Route path="/article1" component={Article1}/>
         <Route path="/article2" component={Article2}/>
         <Route path="/article3" component={Article3}/>
