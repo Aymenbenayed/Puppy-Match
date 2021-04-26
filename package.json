@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "node":"14.15.0",
   "scripts": {
     "start": "node server.js",
     "client": "cd client && npm start",

@@ -1,8 +1,8 @@
 // require express
 const express = require ('express');
 const mongoose = require('mongoose');
-const bodyParser = require('body-parser');
-const path = require('path');
+//const bodyParser = require('body-parser');
+
 
 //instance of express
 const app = express()
